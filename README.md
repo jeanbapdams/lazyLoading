@@ -1,2 +1,2 @@
 # lazyLoading
-angular lazy loading
+angular lazy loading modifier
