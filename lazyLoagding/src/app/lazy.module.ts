@@ -4,7 +4,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { ImlazyComponent } from './imlazy/imlazy.component';
 
 const routes: Routes = [
-/*   { path: 'load-me', component: LazyParentComponent } */
+  { path: 'load-me', component: ImlazyComponent }
 ];
 
 @NgModule({
